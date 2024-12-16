@@ -1,5 +1,3 @@
-
-
 vector<int> calculateZ(string s) {
     int n = s.length();
     vector<int> Z(n, 0);
